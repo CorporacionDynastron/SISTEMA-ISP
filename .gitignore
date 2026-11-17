@@ -1,0 +1,19 @@
+# Output directories
+/build/
+/dist/
+*.class
+
+# NetBeans user specific configuration
+/nbproject/private/
+
+# IntelliJ IDEA user specific files
+.idea/workspace.xml
+.idea/shelf/
+.idea/dataSources/
+.idea/dataSources.local.xml
+*.iws
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
